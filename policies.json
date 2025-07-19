@@ -1,4 +1,6 @@
 {
+  "EnhanceSecurityMode": 1,
+  "TrackingPrevention": 2,
   "NewTabPageQuickLinksEnabled": false,
   "NewTabPageAllowedBackgroundTypes": 3,
   "NewTabPageContentEnabled": false,
@@ -40,7 +42,6 @@
       "image_search_url": "https://www.bing.com/images/search?q={searchTerms}"
     }
   ],
-  "EnhanceSecurityMode": 2,
   "SSLErrorOverrideAllowed": true,
   "SandboxExternalProtocolBlocked": true,
   "ResolveNavigationErrorsUseWebService": false,
@@ -74,9 +75,7 @@
   "RelaunchNotification": 1,
   "MicrosoftEdgeInsiderPromotionEnabled": false,
   "ShowPDFDefaultRecommendationsEnabled": false,
-  "TrackingPrevention": 3,
   "UserFeedbackAllowed": false,
-  "UserAgentReduction": 2,
   "BingAdsSuppression": true,
   "AdsTransparencyEnabled": false,
   "AdsSettingForIntrusiveAdsSites": 2,
