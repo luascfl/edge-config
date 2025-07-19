@@ -14,18 +14,15 @@ To set up the policies, you will need to follow these steps:
 
 ## Policy Configuration
 
-For reference yoiu can review [Microsoft Edge Browser Policy Documentation](https://learn.microsoft.com/en-us/deployedge/microsoft-edge-policies)
+For reference you can review [Microsoft Edge Browser Policy Documentation](https://learn.microsoft.com/en-us/deployedge/microsoft-edge-policies)
 
 It is important to note that the default configuration is strict and disables several features including:
 
-- Microsoft account & sync
 - Sidebar hub & search
 - Recommendations & ads
 - Shopping coupons & rewards
 - Collection & workspaces
 - Text prediction & speech recognition
-- JavaScript JIT
-- Third-party cookies
 - Built-in password manager and auto-fill functionality
 
 You can also add `--enable-features=msDiagnosticDataForceOff` to `$XDG_CONFIG_HOME/microsoft-edge-stable-flags.conf` to further restrict the data sent to Microsoft.
