@@ -111,5 +111,5 @@
   "ExternalProtocolDialogShowAlwaysOpenCheckbox": true,
   "HardwareAccelerationModeEnabled": true,
   "ClearCachedImagesAndFilesOnExit": true,
-  "ClearBrowseDataOnExit": false
+  "ClearBrowsingDataOnExit": false
 }
